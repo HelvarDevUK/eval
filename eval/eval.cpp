@@ -8,6 +8,8 @@ int _tmain(int argc, _TCHAR* argv[])
 {
 	printf("eval...");
 	
+	printf("eval... this should conflict with \"issue 1\"!");
+
 	getchar();
 
 	return 0;
