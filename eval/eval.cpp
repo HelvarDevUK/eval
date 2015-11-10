@@ -8,7 +8,7 @@ int _tmain(int argc, _TCHAR* argv[])
 {
 	printf("eval...");
 	
-	printf("eval... this is the change for issue 1 on branch:\"issue-1\"");
+	printf("eval... this should conflict with \"issue 1\"!");
 
 	getchar();
 
